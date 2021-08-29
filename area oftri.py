@@ -1,0 +1,6 @@
+s=float(input("ente the the length of side"))
+a=float(input("enter the value of a"))
+b=float(input ("enter the value of b"))
+c=float(input("enter the value of c"))
+area=(s(s-a)*(s-b)*(s-c)9)
+print("area of triangle",area)
